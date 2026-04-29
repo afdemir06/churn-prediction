@@ -19,7 +19,7 @@ To run this project locally, ensure you have Docker installed.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/churn-prediction.git](https://github.com/yourusername/churn-prediction.git)
+   git clone [https://github.com/afdemir06/churn-prediction.git](https://github.com/afdemir06/churn-prediction.git)
    cd churn-prediction
    ```
 
