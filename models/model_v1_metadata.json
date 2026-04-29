@@ -1,0 +1,10 @@
+{
+    "features": [
+        "CustomerID",
+        "Tenure",
+        "MonthlyCharges",
+        "TotalCharges",
+        "Contract"
+    ],
+    "version": "v1"
+}

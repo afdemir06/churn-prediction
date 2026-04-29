@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+secret.key
+config.local.json
+*.joblib
+*.h5
+*.model
+data/processed_data/
+data/raw_data/
+*.csv
+.dockerignore
+.vscode/
+.idea/
+.DS_Store
